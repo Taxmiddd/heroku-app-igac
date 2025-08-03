@@ -1,0 +1,9 @@
+{
+  "root": "igac-website-clone/",
+  "clean_urls": true,
+  "https_only": true,
+  "error_page": "igac.info/index.html",
+  "routes": {
+    "/**": "igac.info/index.html"
+  }
+}
